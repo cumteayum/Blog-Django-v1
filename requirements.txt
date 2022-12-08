@@ -26,7 +26,7 @@ bottle==0.12.15
 Brotli==1.0.7
 bs4==0.0.1
 cbor==1.0.0
-certifi==2019.11.28
+certifi==2022.12.7
 Chameleon==3.6.2
 chardet==3.0.4
 Click==7.0
